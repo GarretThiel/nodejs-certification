@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-certification",
+* "name": "nodejs-certification",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -22,3 +22,4 @@
     "pretty-console-colors": "^1.1.1"
   }
 }
+ 
